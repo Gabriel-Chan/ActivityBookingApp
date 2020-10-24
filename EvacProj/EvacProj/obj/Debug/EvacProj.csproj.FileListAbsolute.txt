@@ -1,0 +1,5 @@
+C:\Users\Gabriel Chan\Documents\Visual Studio 2012\Projects\EvacProj\EvacProj\bin\EvacProj.dll
+C:\Users\Gabriel Chan\Documents\Visual Studio 2012\Projects\EvacProj\EvacProj\bin\EvacProj.pdb
+C:\Users\Gabriel Chan\Documents\Visual Studio 2012\Projects\EvacProj\EvacProj\obj\Debug\EvacProj.dll
+C:\Users\Gabriel Chan\Documents\Visual Studio 2012\Projects\EvacProj\EvacProj\obj\Debug\EvacProj.pdb
+C:\Users\Gabriel Chan\Documents\Visual Studio 2012\Projects\EvacProj\EvacProj\obj\Debug\EvacProj.csprojResolveAssemblyReference.cache
